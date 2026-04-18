@@ -3,8 +3,8 @@
 *.csv
 *.safetensors
 *.ipynb_checkpoints
-outputs/models/
-data/
+
+
 venv/
 .env
 data/raw/
